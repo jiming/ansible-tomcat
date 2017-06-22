@@ -4,6 +4,8 @@ Install Tomcat with configurable Catalina instances.
 
 ## Compatibility
 
+### 2.0.SNAPSHOT
+
 ### 1.3.0
 ### 1.3.0
 
